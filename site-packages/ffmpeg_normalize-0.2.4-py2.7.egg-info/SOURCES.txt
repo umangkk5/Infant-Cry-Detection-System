@@ -1,0 +1,15 @@
+HISTORY.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+ffmpeg_normalize/__init__.py
+ffmpeg_normalize/__main__.py
+ffmpeg_normalize.egg-info/PKG-INFO
+ffmpeg_normalize.egg-info/SOURCES.txt
+ffmpeg_normalize.egg-info/dependency_links.txt
+ffmpeg_normalize.egg-info/entry_points.txt
+ffmpeg_normalize.egg-info/not-zip-safe
+ffmpeg_normalize.egg-info/requires.txt
+ffmpeg_normalize.egg-info/top_level.txt
